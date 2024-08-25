@@ -1,6 +1,4 @@
-# triggerbot dh script dk if it works
-
-go skid!!!
+# triggerbot dh script
 
 getgenv().prediction = 0.12
 getgenv().click_delay = 0.001
